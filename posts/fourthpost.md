@@ -4,10 +4,12 @@ description: Hand-built, curious, small, ceramic animals that play well with hou
 date: 2018-09-30
 tags:
   - handmade
-  - small business 
+  - small business
 layout: layouts/post.njk
 ---
 Hand-built, curious, small, ceramic animals that play well with houseplants, desktops and shelves.
+
+[See Hold Me](http://holdmeceramics.com)
 
 ![Hold Me Ceramics Website](/img/holdmeceramics.png)
 ![Ceramic Animals](/img/holdme.png)
