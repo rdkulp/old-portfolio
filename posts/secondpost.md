@@ -1,18 +1,16 @@
 ---
-title: This is my second post.
-description: This is a post on My Blog about leveraging agile frameworks.
-date: 2018-07-04
+title: Stitch and Saw
+description: Hand Embroidered pendants
+date: 2018-08-24
 tags:
-  - number-2
+  - handmade
+  - small business
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+This was my first side project that I attempted to turn into a small business. I found a small audience in Austin, TX before moving back home to Colorado and learned a lot setting up and closing it down.
 
-## Section Header
+![Embroidered Animals](/img/stitch.png)
 
-<a href="{{ '/posts/firstpost/' | url }}">First post</a>
-<a href="{{ '/posts/thirdpost/' | url }}">Third post</a>
+## Technologies
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+QBO Instagram Needle Thread Wood Metal

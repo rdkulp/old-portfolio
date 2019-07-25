@@ -7,6 +7,8 @@
   --navy: #17050F;
   --blue: #082840;
   --white: #fff;
+  --green: #32CD32;
+  --purple: #4B0082
 }
 * {
   box-sizing: border-box;
@@ -181,6 +183,15 @@ pre {
 
 
 /* Tags */
+
+.tag:nth-child(odd) {
+  background-color: var(--purple);
+}
+
+.tag:nth-child(even) {
+  background-color: var(--blue);
+}
+
 .tag {
   display: inline-block;
   vertical-align: text-top;

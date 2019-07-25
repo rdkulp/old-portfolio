@@ -7,4 +7,10 @@ navtitle: About
 templateClass: tmpl-post
 ---
 
-I am a person that writes stuff.
+I build useful stuff for the web for people who care.
+
+Get in contact with me ryan@steadyledger.com
+
+``` text/2-3
+ryankulp$ rails new yourapp =)
+```
