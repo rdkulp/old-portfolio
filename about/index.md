@@ -12,5 +12,5 @@ I build fun and/or useful stuff for people who care.
 Get in contact with me ryan@steadyledger.com
 
 ``` text/2-3
-ryankulp$ rails new yourapp 🚣🏻‍
+ryankulp$ rails new adventure🚣🏻‍
 ```
