@@ -1,11 +1,12 @@
 ---
+title: Projects
+description: Portfolio
 layout: layouts/home.njk
 tags:
   - nav
 navtitle: Home
 ---
 
-<h1>Projects</h1>
-
+<h1> Projects </h1>
 {% set postslist = collections.posts | head(-10) %}
 {% include "postslist.njk" %}
