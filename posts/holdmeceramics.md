@@ -7,7 +7,7 @@ tags:
   - handmade
 layout: layouts/post.njk
 ---
-Hand-built, curious, small, ceramic animals that play well with houseplants, desktops and shelves.
+I hand built these curious, small, ceramic animals. The ecommerce was set up on Squarespace.
 
 [See Hold Me](http://holdmeceramics.com)
 

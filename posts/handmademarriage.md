@@ -3,7 +3,6 @@ title: Handmade Marriage
 description: 4 episode video interview series featuring small businesses run by married couples
 date: 2014-10-04
 tags:
-  - handmade
   - video
   - adobe premier
   - content
