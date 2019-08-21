@@ -3,10 +3,10 @@ title: Birth Window
 description: SaaS On Call Management for Birth Workers
 date: 2019-07-23
 tags:
-  - Web
   - Ruby on Rails
-  - Product
-  - Small Business
+  - PostgreSQL
+  - StimulusJS
+  - Git
   - SaaS
 layout: layouts/post.njk
 ---

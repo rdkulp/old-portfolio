@@ -3,10 +3,8 @@ title: Anecdotes and Applecores
 description: Food Blog for Monet Moutrie
 date: 2011-05-01
 tags:
-  - Web
   - WordPress
   - PHP
-  - food-blog
 layout: layouts/post.njk
 ---
 I transitioned my wife's food blog over to WordPress from Weebly in 2011.
