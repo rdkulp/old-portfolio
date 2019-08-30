@@ -19,7 +19,7 @@ more manageable.
 
 ## Technologies
 
-Ruby on Rails StimulusJS TailwindCSS PostreSQL
+Ruby on Rails StimulusJS CSS TailwindCSS PostgreSQL Git
 
 ``` text/2-3
 ryankulp$ rails new birthWindow
