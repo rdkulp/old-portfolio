@@ -48,7 +48,7 @@ a[href]:visited {
   color: var(--white);
 }
 .footer {
-  position: absolute;
+  position: relative;
   height: 60px;
   bottom: 0;
   padding-left: 20px;
