@@ -12,11 +12,11 @@ Handmade Marriage was content marketing for <a href="{{ '/posts/secondpost/' | u
 
 All can be [found here!](http://vimeo.com/ryandkulp)
 
-<iframe src="https://player.vimeo.com/video/125761712" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/125761712">Handmade Marriage - My Favourite Colour Studio</a> from <a href="https://vimeo.com/ryankulp">Ryan Kulp</a></p>
-
 <iframe src="https://player.vimeo.com/video/138442479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/138442479">Handmade Marriage - Ladyfingers Letterpress</a> from <a href="https://vimeo.com/ryankulp">Ryan Kulp</a></p>
+
+<iframe src="https://player.vimeo.com/video/125761712" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/125761712">Handmade Marriage - My Favourite Colour Studio</a> from <a href="https://vimeo.com/ryankulp">Ryan Kulp</a></p>
 
 ## Technologies
 
