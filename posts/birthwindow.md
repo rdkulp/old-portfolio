@@ -15,7 +15,11 @@ more manageable.
 
 [Take Birth Window for a spin!](http://birthwindow.herokuapp.com)
 
-![On Call Management App](/img/window.png)
+![Landing Page](/img/window.png)
+
+![Client List](/img/window1.png)
+
+<img src="/img/window2.png" alt="On Call Page" width="100"/>
 
 ## Technologies
 
