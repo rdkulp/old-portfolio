@@ -7,11 +7,15 @@ tags:
   - PostgreSQL
   - StimulusJS
   - Git
-  - SaaS
 layout: layouts/post.njk
 ---
-I built Birth Window from the ground up to make being On Call as a birth worker
+I built Birth Window from the ground up (from ideation and customer research to design, development and maintenance) to make being On Call as a birth worker
 more manageable.
+
+This project taught me such a broad set of skills including
+choosing a tech stack, research, git, the command line and so much more.
+
+I started building the app with python and then Swift but found that with ruby I could accomplish a lot more in a shorter period of time and have more fun while doing it. 
 
 [Take Birth Window for a spin!](http://birthwindow.herokuapp.com)
 
