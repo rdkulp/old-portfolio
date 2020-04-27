@@ -54,7 +54,7 @@ a[href]:visited {
 main {
   padding: 1rem;
   min-height: 100%;
-  margin-bottom: 100px;
+  margin-bottom: 60px;
 }
 main :first-child {
   margin-top: 0;
@@ -136,6 +136,7 @@ pre {
   float: left;
   margin: 1rem 0; /* 16px /16 */
   font-size: 1em; /* 16px /16 */
+  margin-left: -2rem;
 }
 .home :link:not(:hover) {
   text-decoration: none;
@@ -193,6 +194,18 @@ pre {
   display: inline-block;
   padding: 0.25em 0.1875em; /* 4px 3px /16 */
   font-weight: bold;
+}
+
+.ry {
+  width: 100px;
+  float: left;
+  clip-path: circle(20% at 52% 35%);
+  animation: 1s circle reverse;
+}
+
+@keyframes circle {
+  0% { clip-path: circle(20% at 52% 35%); }
+  100% { clip-path: circle(0% at 52% 35%); }
 }
 
 .tmpl-home .postlist-link {
