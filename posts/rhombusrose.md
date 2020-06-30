@@ -4,8 +4,10 @@ description: Web Design
 date: 2019-12-15
 tags:
   - Squarespace
+  - HTML
   - CSS
   - jQuery
+  - JS
 layout: layouts/post.njk
 ---
 
