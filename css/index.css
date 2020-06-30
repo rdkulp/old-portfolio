@@ -203,6 +203,15 @@ pre {
   animation: 1s circle reverse;
 }
 
+@media only screen and (max-width: 600px) {
+  header img{
+    display: none;
+  }
+  .home {
+    margin-left: 0;
+  }
+}
+
 @keyframes circle {
   0% { clip-path: circle(20% at 52% 35%); }
   100% { clip-path: circle(0% at 52% 35%); }
