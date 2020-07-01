@@ -11,7 +11,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-I started Rhombus Rose a the tail end of 2019 to build my portfolio, showcase my design skills, and transition out of my day job of bookkeeping. I am wrapping up several projects including a membership site for a national non profit based in Boston, website for a well known Denver baker, and helping a counselor in Pasadena put the finishing touches on her [site](http://ashleymcdanielcounseling.com).
+I started Rhombus Rose at the tail end of 2019 to build my portfolio, showcase my design skills, and transition out of my day job of bookkeeping. I am wrapping up several projects including a membership site for a national non profit based in Boston, website for a well known Denver baker, and helping a counselor in Pasadena put the finishing touches on her [site](http://ashleymcdanielcounseling.com).
 
 Building out my own site has allowed me to play with different interactions. My favorite so far is the pink rhombus Background overlaid with a rhombus shaped image where the corners rotate on the x axis as you scroll up and down. I accomplished this with a CSS clip path and a JQuery function that adjusts the vertices of the clip-path based on the scroll position.
 
