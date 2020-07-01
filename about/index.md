@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: About Me
 tags:
   - nav
-navtitle: About
+navtitle: ABOUT
 templateClass: tmpl-post
 ---
 
