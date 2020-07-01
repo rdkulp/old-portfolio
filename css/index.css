@@ -11,7 +11,6 @@
   --green: #32CD32;
   --purple: #4B0082;
   --teal: #3981a8;
-  --yellow: #FFE057;
 }
 * {
   box-sizing: border-box;
@@ -243,7 +242,6 @@ pre {
 .tmpl-home .postlist-link {
   font-size: 1.1875em; /* 19px /16 */
   font-weight: 700;
-  color: var(--yellow);
 }
 
 /* Tags */
