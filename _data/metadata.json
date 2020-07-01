@@ -1,16 +1,16 @@
 {
-  "title": "Ryan Kulp",
+  "title": "Ry Kulp",
   "url": "https://ryandkulp.com/",
-  "description": "Web Products for Small Business",
+  "description": "Web Products for People",
   "feed": {
-    "subtitle": "Helping small businesses build web products.",
+    "subtitle": "Helping people build web products.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "url": "https://ryandkulp.com/feed/feed.xml",
     "id": "https://ryandkulp.com/"
   },
   "author": {
-    "name": "Ryan Kulp",
-    "email": "rdkulp@gmail.com"
+    "name": "Ry Kulp",
+    "email": "ry@rhombusrose.com"
   }
 }

@@ -27,6 +27,17 @@ body {
   color: var(--white);
   background: linear-gradient(-45deg, var(--teal), var(--purple));
 }
+
+h1 {
+  font-family: "Gotham A", "Gotham B", Tahoma, San-Serif;
+  font-style: normal;
+  font-weight: 400;
+}
+p{
+  font-family: "Mercury SSm A", "Mercury SSm B", Georgia, Serif;
+  font-style: normal;
+  font-weight: 400;
+}
 p:last-child {
   margin-bottom: 0;
 }
@@ -40,6 +51,11 @@ img {
 p,
 .tmpl-post li {
   line-height: 1.45;
+}
+li a {
+  font-family: "Gotham A", "Gotham B", Tahoma, San-Serif;
+  font-style: normal;
+  font-weight: 200;
 }
 a[href] {
   color: var(--white);
@@ -148,6 +164,11 @@ pre {
   list-style: none;
   float: left;
   margin-left: 1em;
+}
+.nav li a{
+  font-family: "Gotham A", "Gotham B", Tahoma, San-Serif;
+  font-style: normal;
+  font-weight: 200;
 }
 .nav-item {
   display: inline-block;
