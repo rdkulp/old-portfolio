@@ -1,5 +1,5 @@
 ---
-title: Fake Dashboard
+title: Fake Accounting Dashboard
 description: Web Design
 date: 2020-04-30
 tags:
@@ -9,15 +9,14 @@ tags:
 layout: layouts/post.njk
 ---
 
-This is a goofy, very basic dashboard I built to see what the quickest way to
-get JS data visualization up and running in order to impress a client. It didn't
-impress them. But I learned roughly how to use the Victory React components, Create React
-App and how to deploy to Vercel (formerly Zeit). The button doesn't go anywhere,
-but it does change colors on hover.
+This is a goofy, very basic accounting dashboard I built as an exploration of data
+visualization using Javascript. I found Victory, the React component library for data
+visualization, to be intuitive and fun to use. Looking forward to utilizing this
+in a bigger project some day.
 
 [Data Dashboard](https://ry-data-kulp.now.sh/)
 
-![Rhombus Rose Website](/img/dashboard.png)
+![Accounting Dashboard](/img/dashboard.png)
 
 ## Technologies
 
