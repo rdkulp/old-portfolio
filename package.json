@@ -3,6 +3,7 @@
   "version": "0.11.0",
   "description": "Design Portfolio",
   "scripts": {
+    "start": "npx eleventy --serve",
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",
     "debug": "DEBUG=* npx eleventy"
