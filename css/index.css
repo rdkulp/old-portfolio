@@ -65,10 +65,10 @@ a[href]:visited {
 }
 .footer, .push {
   height: 60px;
-  padding-left: 10px;
+  padding-left: 2em;
 }
 main {
-  padding: 1rem;
+  padding: 2rem;
   min-height: 100%;
   margin-bottom: 60px;
 }
@@ -76,6 +76,7 @@ main :first-child {
   margin-top: 0;
 }
 header {
+  padding: 1em 0 .5em;
   border-bottom: 1px solid var(--white);
 }
 header:after {
@@ -222,7 +223,7 @@ pre {
   width: 100px;
   float: left;
   clip-path: circle(20% at 52% 35%);
-  animation: 1s circle reverse;
+  /* animation: 1s circle reverse; */
 }
 
 @media only screen and (max-width: 600px) {
